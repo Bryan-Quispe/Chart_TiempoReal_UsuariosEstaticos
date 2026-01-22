@@ -1,0 +1,1 @@
+# Chart_TiempoReal_UsuariosEstaticos
